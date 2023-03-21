@@ -15,4 +15,3 @@ var res = 0;
 
 	document.getElementById("result").innerHTML = cost;
 	}
-  
